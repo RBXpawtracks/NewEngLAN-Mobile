@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.newenglan.mobile"
+        versionCode="1" 
+        version   = "0.1.0">
+    <!-- <major>.<minor>.<point> -->
+
+    <name>NewEngLAN Mobile</name>
+
+    <description>
+        Front-end for NewEngLAN.com.
+    </description>
+
+    <author href="https://digitalwolfstudio.tk" email="mobile@digitalwolfstudio.tk">
+        Digital Wolf Studio 
+    </author>
+
+</widget>
